@@ -4,7 +4,9 @@
 
 Current chapter: Chapter 1
 
-Current task: Not started
+Current task: Two-week foundation plan scheduled; Day 1 not started
+
+Learning plan: [Two-week foundation plan](TWO_WEEK_PLAN.md) — 14 study days, 4 hours per day. Focus: trace an Agent, compare context variants, and independently implement a minimal notes Agent. Start date is flexible; no experiments are marked complete by planning alone.
 
 ---
 
